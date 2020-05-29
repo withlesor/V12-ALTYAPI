@@ -1,5 +1,5 @@
 ## Merhabalar, burası V12 için tasarlanmış bir temiz altyapı.
-
+---------------------------------------------------------------
 ### Gerekenler
 - VSC
 - Node.JS
